@@ -1,8 +1,6 @@
 # Calculator
 
-A basic calculator
-
-> A fictional online banking application
+> A basic minimalistic calculator
 > Live
 
 ## Table of Contents
